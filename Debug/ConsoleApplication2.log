@@ -1,0 +1,20 @@
+﻿빌드 시작: 2021-02-17 오후 2:16:01
+     1>2 노드의 "C:\Users\hannie\Documents\visual studio 2012\Project1\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D CONSOLEAPPLICATION2_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication2.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt /wd4996 ConsoleApplication2.cpp
+         ConsoleApplication2.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\hannie\Documents\visual studio 2012\Project1\ConsoleApplication2\Debug\ConsoleApplication2.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\hannie\Documents\visual studio 2012\Project1\ConsoleApplication2\Debug\ConsoleApplication2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\hannie\Documents\visual studio 2012\Project1\ConsoleApplication2\Debug\ConsoleApplication2.lib" /MACHINE:X86 /DLL Debug\bessel.obj
+         Debug\buffercnt.obj
+         Debug\ConsoleApplication2.obj
+         Debug\dllmain.obj
+         Debug\spenhbuff.obj
+         Debug\stdafx.obj
+         LINK : C:\Users\hannie\Documents\visual studio 2012\Project1\ConsoleApplication2\Debug\ConsoleApplication2.dll을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+            C:\Users\hannie\Documents\visual studio 2012\Project1\ConsoleApplication2\Debug\ConsoleApplication2.lib 라이브러리 및 C:\Users\hannie\Documents\visual studio 2012\Project1\ConsoleApplication2\Debug\ConsoleApplication2.exp 개체를 생성하고 있습니다.
+         ConsoleApplication2.vcxproj -> C:\Users\hannie\Documents\visual studio 2012\Project1\ConsoleApplication2\Debug\ConsoleApplication2.dll
+     1>"C:\Users\hannie\Documents\visual studio 2012\Project1\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.28
